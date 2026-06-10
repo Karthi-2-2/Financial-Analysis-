@@ -46,7 +46,7 @@ Dashboard Features
 ----
 ## Dashboard Preview
 
-![Financial Analytics Dashboard](Screenshots/financial-analysis-dashboard-powerbi.png)
+![Financial Analytics Dashboard](Screenshots/financial-dashboard.png)
 
 Key Insights
  - Finance department recorded the highest expenses.
