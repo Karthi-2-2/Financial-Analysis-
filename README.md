@@ -44,6 +44,7 @@ Dashboard Features
  - Budget Variance Monitoring
  - Region and Department Filters
 ----
+financial-analytics-dashboard.png
 
 Key Insights
  - Finance department recorded the highest expenses.
