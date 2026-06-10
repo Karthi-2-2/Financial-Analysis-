@@ -1,0 +1,18 @@
+SELECT strftime('%Y-%m',date)AS Month,SUM(revenue)AS Total_Revenue
+FROM financial_analytics_project_dataset
+GROUP by strftime('%Y-%m',date)
+ORDER by Month;
+
+SELECT department,SUM(expense)AS Total_Expense
+FROM financial_analytics_project_dataset
+GROUP by department
+ORDER BY Total_Expense DESC;
+
+SELECT region,SUM(profit)AS Total_Profit
+FROM financial_analytics_project_dataset
+GROUP by region
+order by Total_Profit DESC;
+
+SELECT department,SUM(budget)AS Total_budget,SUM(actual_spending)AS Actual_Spending,SUM(actual_spending-Budget)AS Variance
+FROM financial_analytics_project_dataset
+GROUP by department;
