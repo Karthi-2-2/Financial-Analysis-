@@ -44,10 +44,8 @@ Dashboard Features
  - Budget Variance Monitoring
  - Region and Department Filters
 ----
-## Dashboard Preview
-
-![Financial Analytics Dashboard](Screenshots/financial-dashboard.png)
-
+Screenshots/
+└── financial-analysis-dashboard-powerbi.png
 Key Insights
  - Finance department recorded the highest expenses.
  - Total revenue exceeded 31M.
