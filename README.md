@@ -51,4 +51,4 @@ Key Insights
  - Net profit reached 12M.
  - Budget variance indicated overspending.
 
-![Finance Dashboard](Screenshots/finance-dashboard.png)
+![Finance Dashboard](finance-dashboard.png)
