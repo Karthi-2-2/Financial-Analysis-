@@ -1,0 +1,8 @@
+import pandas as pd
+df = pd.read_csv("financial_analytics_project_dataset.csv")
+
+print(df.isnull().sum())
+print(df.duplicated().sum())
+df = df.drop_duplicates()
+df.to_csv("cleaned_financial_data.csv", index=False)
+print("ETL Completed")
