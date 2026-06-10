@@ -43,11 +43,12 @@ Dashboard Features
  - Profit Breakdown
  - Budget Variance Monitoring
  - Region and Department Filters
-----
-Screenshots/
-└── financial-analysis-dashboard-powerbi.png
+-----
+
 Key Insights
  - Finance department recorded the highest expenses.
  - Total revenue exceeded 31M.
  - Net profit reached 12M.
  - Budget variance indicated overspending.
+
+finance-dashboard.png
