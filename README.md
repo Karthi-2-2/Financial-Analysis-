@@ -7,14 +7,15 @@ The dataset was cleaned using Python, analyzed using SQL, and visualized in Powe
 ----
 
 #Tools Used
- Python (Pandas)
- SQL (SQLite)
- Power BI
- Data Cleaning
+ - Python (Pandas)
+ - SQL (SQLite)
+ - Power BI
 
+-----
+
+#Data Cleaning
 The following data cleaning steps were performed:
-
-#Checked missing values
+ Checked missing values
  Removed duplicate records
  Verified data types
  Created a cleaned dataset for analysis
@@ -30,9 +31,7 @@ The following data cleaning steps were performed:
 ----
 
 #SQL Analysis
-
 The following analyses were performed:
-
  Monthly/Quarterly Revenue Trend
  Department-wise Expenses
  Region-wise Profit
